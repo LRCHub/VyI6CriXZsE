@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "馬鹿みたい。",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-27T16:22:52.655496Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "馬鹿みたい。",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_馬鹿みたい。_Saucy_Dog.txt"
+    }
+  ]
+}
